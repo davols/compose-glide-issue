@@ -40,23 +40,23 @@ class MainActivity : AppCompatActivity() {
 private val images = listOf(
     Pair(
         "moomin",
-        "https://static.dw.com/image/47520312_303.jpg"
+        "https://firebasestorage.googleapis.com/v0/b/bulder-test-firebase-moneybag-images/o/users%2FXx1iZa3pwpzuyld7gxK1YbkdB7Xu0dRWOySr6gj_rBk%2F447b3a8f-d824-4d92-9c55-0a95272cae87.jpg?alt=media&token=18f16d5a-4c10-45d1-b029-c6fcecc840b2",
     ),
     Pair(
         "register",
-        "https://media0.giphy.com/media/oZBx7QKbodgqY/giphy.gif",
+        "https://firebasestorage.googleapis.com/v0/b/bulder-test-firebase-moneybag-images/o/users%2FXx1iZa3pwpzuyld7gxK1YbkdB7Xu0dRWOySr6gj_rBk%2F61807321-271e-48b2-aca3-d7e7bc31e5a3.gif?alt=media&token=11775a5a-6520-45f0-b49d-0e684c748aa7",
     ),
     Pair(
         "dancing",
-        "https://media2.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif?cid=ecf05e47bpa0qyzopsc69qdrbz3z0ymhvf9af6xbswa9dwdk&rid=giphy.gif"
+        "https://firebasestorage.googleapis.com/v0/b/bulder-test-firebase-moneybag-images/o/users%2FXx1iZa3pwpzuyld7gxK1YbkdB7Xu0dRWOySr6gj_rBk%2Fa0b7b7f6-1f47-499a-8c00-44ca5ce6cb2c.gif?alt=media&token=71729100-02fb-4aa3-a5f0-278677ea08a4",
     ),
     Pair(
         "bills",
-        "https://media0.giphy.com/media/9rwJNLBu8FMfixoIxL/giphy.gif?cid=ecf05e4736v5h6awppuswequd2otj0hy3fjs7h4agvp2l5s1&rid=giphy.gif"
+        "https://firebasestorage.googleapis.com/v0/b/bulder-test-firebase-moneybag-images/o/users%2FXx1iZa3pwpzuyld7gxK1YbkdB7Xu0dRWOySr6gj_rBk%2Fa995e832-d0de-4228-ad07-698b10d314a5.gif?alt=media&token=f0833cc6-c583-4de1-be57-2ab6462e7487"
     ),
     Pair(
         "aoc",
-        "https://media1.giphy.com/media/0tcXWuHIX4pQCJIdWB/giphy.gif?cid=ecf05e473jqvc2q0xlo8loqkkswx9twp7ll3pksxqm3x93ja&rid=giphy.gif"
+        "https://firebasestorage.googleapis.com/v0/b/bulder-test-firebase-moneybag-images/o/users%2FXx1iZa3pwpzuyld7gxK1YbkdB7Xu0dRWOySr6gj_rBk%2F494935ed-b680-4df6-b7a6-7b80054e891e.gif?alt=media&token=8eaa1a7c-dfdc-4300-a3b2-e5b9bae09c87"
     )
 )
 
