@@ -39,10 +39,6 @@ class MainActivity : AppCompatActivity() {
 
 private val images = listOf(
     Pair(
-        "moomin",
-        "https://firebasestorage.googleapis.com/v0/b/bulder-test-firebase-moneybag-images/o/users%2FXx1iZa3pwpzuyld7gxK1YbkdB7Xu0dRWOySr6gj_rBk%2F447b3a8f-d824-4d92-9c55-0a95272cae87.jpg?alt=media&token=18f16d5a-4c10-45d1-b029-c6fcecc840b2",
-    ),
-    Pair(
         "register",
         "https://firebasestorage.googleapis.com/v0/b/bulder-test-firebase-moneybag-images/o/users%2FXx1iZa3pwpzuyld7gxK1YbkdB7Xu0dRWOySr6gj_rBk%2F61807321-271e-48b2-aca3-d7e7bc31e5a3.gif?alt=media&token=11775a5a-6520-45f0-b49d-0e684c748aa7",
     ),
